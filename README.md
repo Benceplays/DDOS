@@ -1,5 +1,3 @@
-Made by: Script Devil
-
 Usage: 
 - Open Command Prompt(cmd)
 - Enter the python script directory.
